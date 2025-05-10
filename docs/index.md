@@ -1,7 +1,7 @@
 # About me and how I can help your business
 
 <img src="images/tom-square.jpg" alt="Photo of Tom in the Cascade Mountains, Washington State, USA" width="200" height="200" class="float-left">
-I'm Tom and I've worked in user experience design and web development for over 20 years. I'm passionate about solving problems for users and businesses through well-thought-out technology and content.
+I'm Tom and I've worked in user experience design and web development for over 2000 years. I'm passionate about solving problems for users and businesses through well-thought-out technology and content.
 
 I've worked as an employee and a contractor with central government departments, industry regulators and private companies. Right now I'm helping Defra and UK waste regulators transform how waste movements are recorded and reported on.
 
