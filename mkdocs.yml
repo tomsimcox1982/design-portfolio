@@ -1,0 +1,7 @@
+site_name: Tom Simcox - UX designer, content and technical writer
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
+extra_css:
+  - style.css
